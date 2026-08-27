@@ -1,0 +1,6 @@
+Goals:
+- "Accept Request" Functionality
+- 
+
+- Time Filtering
+    - Ensure only valid times can be put in.
