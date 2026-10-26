@@ -81,7 +81,7 @@ study-app/
 ```
 
 ## app/ - Screens and Navigation (Expo Router)
-Houses all full-screen routes and navigation logic using Expo Router's file-based routing. Every file or folder here corresponds to a user-facing screen or navigation boundary.
+Houses all full-screen routes and navigation logic using Expo Router's file-based routing. Every file or folder here corresponds to a user-facing screen or navigation boundary
 
 ## app/(auth)/ - Logged-out Flow
 Contains screens and layouts shown only to unauthenticated users, such as login and signup.
